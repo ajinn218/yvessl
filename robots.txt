@@ -1,0 +1,4 @@
+User-agent: Googlebot
+Allow: /dress/
+
+Sitemap: http://ajinn218.github.io/yvessl//sitemap.xml
